@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "914601842477",
+    "firebase_url": "https://rfproducts-e76ce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rfproducts-e76ce",
+    "storage_bucket": "rfproducts-e76ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914601842477:android:e840671a621feb98e9a5a4",
+        "android_client_info": {
+          "package_name": "com.gray.RFProducts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2iHqOY6jyEpipSOfYrNokbsrcgyXl5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914601842477:android:eb20f04589ba7498e9a5a4",
+        "android_client_info": {
+          "package_name": "com.rinusfood.onelunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2iHqOY6jyEpipSOfYrNokbsrcgyXl5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
